@@ -1,0 +1,21 @@
+.track {
+    background: #aaa;
+    border: #444 0.15em solid;
+    width: 100%;
+    height: 5em;
+}
+
+.selected {
+    background: #ccc;
+    border: #777 2px solid;
+}
+
+.contents {
+    display: inline-block;
+    padding: 0.3em 0.3em;
+}
+
+.cues {
+    float: left;
+    padding-left: 0.5em;
+}
